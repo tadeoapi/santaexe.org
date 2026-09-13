@@ -73,7 +73,7 @@ function newYdn(){
 
 //	fOff -	keeps the main window from moving [unused]
 function fOff(){
-        flagrun = 0;
+        flagRun = 1;
         }
 
 
