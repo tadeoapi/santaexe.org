@@ -7,10 +7,9 @@ Bookmark | adds favorite and reminds you of have a great christmas
 */
 
 function bookmark(){
-		if ( (navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4) ){
+		if ( (navigator.appName == "Google Chrome") && (parseInt(navigator.appVersion) >= 154) ){
 			var url="https://santaexe.org/christmas.html";
 			var title="Merry Christmas!";
-			window.external.AddFavorite(url,title);
 		}
 }
 
