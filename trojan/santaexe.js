@@ -48,6 +48,30 @@ function procreate(){
 		openWindow('index.html');
   openWindow('index.html');
 		openWindow('index.html');
+	openWindow('index.html');
+		openWindow('index.html');
+  openWindow('index.html');
+		openWindow('index.html');
+  openWindow('index.html');
+		openWindow('index.html');
+  openWindow('index.html');
+		openWindow('index.html');
+  openWindow('index.html');
+		openWindow('index.html');
+  openWindow('index.html');
+		openWindow('index.html');
+	openWindow('index.html');
+		openWindow('index.html');
+  openWindow('index.html');
+		openWindow('index.html');
+  openWindow('index.html');
+		openWindow('index.html');
+  openWindow('index.html');
+		openWindow('index.html');
+  openWindow('index.html');
+		openWindow('index.html');
+  openWindow('index.html');
+		openWindow('index.html');
 		}
 
 //	newXlt -	sets random X speed, going left
